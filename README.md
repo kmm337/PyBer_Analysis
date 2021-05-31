@@ -14,7 +14,7 @@ A high-level breakdown of revenue by city type is shown in the chart below. Urba
 
 The following Box-and-Whisker plots show the distribution of data by city type for three revenue drivers: total number of rides in city by city type, total number of drivers in city by city type, and average fare for each city by city type.
 
-The plot below compares the distribution of total rides by city type. Urban cities show the largest mean and variability in total rides, and rural cties show a substantially lower mean with less variability.
+The plot below compares the distribution of total rides by city type. Urban cities show the largest mean and variability in total rides, and rural cities show a substantially lower mean with less variability.
 
 ![Total number of rides by city type](analysis/Fig2.png)
 
@@ -40,6 +40,6 @@ The analysis of revenue requires a companion analysis of costs to understand the
 
 ## Recommendations
 
-1 Evaluate the urban city segment to determine whether sub-segments provide a clearer picture of revenue patterns
-2 Investigate average fare per driver to determine whether action needs to be taken
-3 Perform an analysis of cost by city segment to assess profitability by segment
+* Evaluate the urban city segment to determine whether sub-segments provide a clearer picture of revenue patterns
+* Investigate average fare per driver to determine whether action needs to be taken
+* Perform an analysis of cost by city segment to assess profitability by segment
