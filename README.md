@@ -1,4 +1,4 @@
-# Pythin and Matplotlib
+# Python and Matplotlib
 
 ## Overview
 
